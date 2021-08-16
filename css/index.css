@@ -242,7 +242,7 @@ body {
     font-weight: 300;
     line-height: 1.8;
   }
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     .services .services-content .srv { 
       flex-direction: column; 
       text-align: center; 
